@@ -1,7 +1,6 @@
 #Netflix DataSet Analysys
-
-My experiment with Python data tools:
-matplotlib, plotly, pandas, seaborn...
+This is an university sample project!<br>
+matplotlib, plotly, pandas, seaborn...<br>
 My personal Netflix data analysis and plots.
 
 Steps:
