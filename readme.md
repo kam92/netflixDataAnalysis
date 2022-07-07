@@ -1,6 +1,6 @@
 #Netflix DataSet Analysys
 matplotlib, plotly, pandas, seaborn...<br>
-My personal Netflix data analysis and plots.
+Messing around with ~~data science~~ 
 
 Steps:
 1) Create virtual env (opt)
